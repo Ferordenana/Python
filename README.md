@@ -1,2 +1,2 @@
 # Python
-In this repository, I'm going to upload some python exercises/small projects.
+In this repository, I'm going to upload some python exercises/small programs.
