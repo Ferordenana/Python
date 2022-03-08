@@ -1,4 +1,6 @@
 import random
+# I really like this program, a lot of times we're just too lazy to think about different passwords for our accounts. 
+# With this code, not only you can generate a new random password, but also you can choose how long you want it to be. (range("xx")
 
 def generate_password():
     capital_letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
